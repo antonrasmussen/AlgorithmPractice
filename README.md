@@ -14,8 +14,7 @@ A place for me to host a collection of algorithms in various languages.
 - Jump Search
 - Fibonacci Search
 
-# Languages
-
+## Languages
 - C++
 - Java
 - JavaScript
@@ -23,4 +22,10 @@ A place for me to host a collection of algorithms in various languages.
 - Python
 - PHP
 
+## Sources Consulted
+- Data Structures with C++ Using STL (2nd Ed.); Ford and Topp
+- Data Structures and Algorithm Analysis in C++ (4th Ed.); Weiss
+- C# the Complete Reference; Schildt
+- Introduction to Algorithms (3rd Ed.); Cormen, Leiserson, Rivest, Stein
+- Cracking the Coding Interview (6th Ed.); McDowell
 
